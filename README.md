@@ -17,6 +17,7 @@ Dark-mode music platform home page designed for immersive and comfortable user e
 3️⃣ Sign In & Sign Up Pages
 
 Clean and minimal authentication screens suitable for startups and modern applications.
+
 ----------------------------------------------------------------------------------
 # ScreenShots :-
 
